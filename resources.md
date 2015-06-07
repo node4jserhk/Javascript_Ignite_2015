@@ -8,7 +8,7 @@
 
 ## ECMAscript
   - http://www.ecma-international.org/publications/standards/Ecma-262.htm
-  
+
 
 ## Mozilla Developer Network (mdn)
   - https://developer.mozilla.org
@@ -38,7 +38,8 @@
   - http://electron.atom.io/
   - maintained by github
   - based on a part of chromium called content module
-  - allowing one can build desktop application with 
+
+  - allowing one to build desktop application with 
     web technology e.g. HTML + CSS + Javascript
   - Example:
       + Microsoft Visual Code
@@ -47,5 +48,8 @@
 ## node.js
   - https://nodejs.org/
   - Async IO, which is not a new idea, but only used 
-    extensively and widely after node.js (around 2008). 
+    extensively and widely after node.js (around 2009). 
     And async IO is simple naturally fit web application.
+
+    
+
