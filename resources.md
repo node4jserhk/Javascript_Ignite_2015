@@ -6,7 +6,12 @@
         Javascript is acutally influenced by Java bytecode and 
         become popular due to the war between Microsoft and Netscape. 
 
+## ECMAscript
+  - http://www.ecma-international.org/publications/standards/Ecma-262.htm
+  
+
 ## Mozilla Developer Network (mdn)
+  - https://developer.mozilla.org
   - probably the best reference about CSS + HTML + javascript that you can find on the Web.
 
 
@@ -38,3 +43,9 @@
   - Example:
       + Microsoft Visual Code
       + Slack desktop client
+
+## node.js
+  - https://nodejs.org/
+  - Async IO, which is not a new idea, but only used 
+    extensively and widely after node.js (around 2008). 
+    And async IO is simple naturally fit web application.
