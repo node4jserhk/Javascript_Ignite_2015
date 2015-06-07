@@ -16,11 +16,19 @@
 
 
 ## git 
+  - a tool developed for the needs of linux kernel development
+  - initiated by Torvalds
   - code school https://www.codeschool.com/courses/try-git
       + free of charge
       + easy to play with
   - git book https://git-scm.com/book/en/v2
       + in-depth 
+
+## github
+  - a platform the host git repository
+  - similar platform
+      + bitbusket https://bitbucket.org/
+      + gitcafe   https://gitcafe.com/
       
 ## chrome devtool
   - chrome really has everything you need to start development 
@@ -51,5 +59,5 @@
     extensively and widely after node.js (around 2009). 
     And async IO is simple naturally fit web application.
 
-    
+
 
