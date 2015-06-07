@@ -2,6 +2,8 @@
   - code school https://www.codeschool.com/courses/try-git
       + free of charge
       + easy to play with
+  - git book https://git-scm.com/book/en/v2
+      + in-depth 
       
 ## chrome devtool
   - chrome really has everything you need to start development 
