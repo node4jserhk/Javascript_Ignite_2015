@@ -25,7 +25,7 @@
       + in-depth 
 
 ## github
-  - a platform the host git repository
+  - a platform to host git repository
   - similar platform
       + bitbusket https://bitbucket.org/
       + gitcafe   https://gitcafe.com/
